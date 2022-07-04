@@ -1,6 +1,5 @@
 from discord.ext import commands, tasks
 from twitchAPI.twitch import Twitch
-from nextcord.ext import commands
 from discord.utils import get
 import os
 import datetime
