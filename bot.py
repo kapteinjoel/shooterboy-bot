@@ -138,6 +138,5 @@ if __name__ == '__main__':
                         return 'hi'
         # Start your loop.
         live_notifs_loop.start()
-
-TOKEN = "OTgyNTM0MDcyMTMzODk4MjUw.G01iPp.Vt3Dcjkt0pkQDAL5Qyw1F4nkXrH-m4nPbEod0U"
+        
 client.run(os.environ['DISCORD_TOKEN'])
