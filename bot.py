@@ -139,4 +139,4 @@ if __name__ == '__main__':
         # Start your loop.
         live_notifs_loop.start()
         
-client.run(os.environ['DISCORD_TOKEN'])
+client.run(os.environ["DISCORD_TOKEN"])
